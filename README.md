@@ -1,9 +1,18 @@
+## Installation
+
+1. Clone repo
+2. run `npm install`
+
+## Usage
+
+1. run `node server.js`
+2. Navigate to `localhost:8000`
+
 Rock Paper Scissors
 
 This was a simple game that allows the user to flip choose rock, paper, and play against the computer. After the user makes their selection they are informed whether they won, lost, or tied to the computer.
 
-Demo:
-
+![pic](pic.jpg)
 
 How it's made:
 Tech used: HTML, Javascript, Node
@@ -15,6 +24,3 @@ Due to time constraints I wasn't able to inform the user on what the computer ch
 
 Lessons Learned:
 This is my first project using node and while i'm not getting it to read multiple files yet I am able to run a simple locally hosted server, but with a bit more studying i'll be able to incorporate a css file and javascript seperately from my html.
-
-Examples:
-Look out for some other projects with me using node more effectively,
